@@ -1,5 +1,18 @@
 #### package.json文件属性相关
 
+#### 新官网https://webpack.js.org/
+
+#### 加载图片
+* 加载图片文件需要url-loader和file-loader
+
+#### webpack终极优化
+* http://imweb.io/topic/5868e1abb3ce6d8e3f9f99bb
+
+#### webpack插件
+* 用imagemin-webpack-plugin 压缩图片
+* 用webpack-spritesmith 合并雪碧图
+* 对于支持es6的js运行环境使用babili
+
 #### webpack配置
 
 * 打包
